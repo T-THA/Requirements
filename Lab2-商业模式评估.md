@@ -146,11 +146,11 @@ TODO
 
 ##### 2.1.5.2 利润中最大的一块从哪里获得？
 
-在我们的商业模式画布中，收入来源包括工具使用费、VIP订阅服务费、广告费、经纪人佣金。从美图公司的报告上看，2019年，广告费是最大的收入来源<sup>[11](#ref11)；但从今年的中期报告上看，利润中最大的一块是VIP订阅服务。
+在我们的商业模式画布中，收入来源包括工具使用费、VIP订阅服务费、广告费、经纪人佣金。从美图公司的报告上看，2019年，广告费是最大的收入来源<sup>[11](#ref11)</sup>；但从今年的中期报告上看，利润中最大的一块是VIP订阅服务<sup>[12](#ref12)</sup>。
 
 ##### 2.1.5.3 客户能够轻易地找到并购买更便宜的产品和服务吗？
 
-美图秀秀的大部分功能都是免费的，对于没有付费需求的客户，自然无法找到更便宜的同类型产品。美图秀秀的VIP订阅服务费用为一个月12元或20元，属于正常互联网产品VIP服务定价，想找到付费费用更少的同类型产品，对客户而言其实是不容易的。
+美图秀秀的大部分功能都是免费的，对于没有付费需求的客户，自然无法找到更便宜的同类型产品。美图秀秀的VIP订阅服务费用为一个月12元或20元，属于正常互联网产品VIP服务定价，想找到付费费用更少的同类型产品，对客户而言其实是不容易的<sup>[13](#ref13)</sup>。
 
 #### 2.2 行业影响力
 
@@ -158,11 +158,17 @@ TODO
 
 ##### 2.2.1.1 哪些是我们领域的主导者和竞争对手？
 
+美图秀秀所属的领域为美颜拍摄行业领域，关于美图秀秀的社交功能这里暂不作讨论。在该领域，主导者和竞争对手有<sup>[14](#ref14)</sup>：
 
+- Picsart
+- 醒图
+- Faceu激萌
+- 快影
+- 天天P图
 
 ##### 2.2.1.2 竞争者的竞争优势和劣势分别是什么？
 
-
+TODO
 
 ##### 2.2.1.3 竞争者有哪些产品和服务？它们聚焦于哪些客户群体？成本结构如何？
 
@@ -421,24 +427,27 @@ TODO
 3. [我国美颜拍摄行业现状及竞争分析 美图公司稳坐影像领域头把交椅](https://baijiahao.baidu.com/s?id=1760597004193604912&wfr=spider&for=pc)<a name="ref3"> </a>
 4. [最近很火的AI修复照片是真的吗？](https://www.zhihu.com/question/322176327/answer/2783013720)<a name="ref4"> </a>
 5. [美图CEO吴欣鸿：用人工智能，让妹子从“虚拟美”走向“现实美”](https://baijiahao.baidu.com/s?id=1616725794422652752&wfr=spider&for=pc) <a name="ref5"> </a>
-
+6. [美图秀秀产品分析报告](https://www.woshipm.com/evaluating/3345497.html)
 
 8. [竞品分析报告：美图系列VS轻颜醒图](https://www.woshipm.com/evaluating/5183886.html)
 9. [回顾10年变迁史，探究美图商业化背后逻辑](https://zhuanlan.zhihu.com/p/55944077)
 10. [品牌效应是什么](https://zhuanlan.zhihu.com/p/367296961)
 11. [美图2019年上半年营收4.64亿元 广告收入同比增长27.2%](https://www.meitu.com/zh/media/277)
 12. [美图公司发布2023中期业绩：总收入12.61亿元同比增长29.8%，净利润1.51亿元同比增长320.4%](https://www.meitu.com/zh/media/394)
-7. [“拍摄美化类”App个人信息收集情况测试报告](http://www.cac.gov.cn/2023-07/27/c_1692020046893686.htm) <a name="ref1"> </a>& [个人信息保护“法时代”到来了](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210824_313166.html)
-8. [如何看待美图公司的发展前景？](https://www.zhihu.com/?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F50273830)
-9. []()
-10. []()
-11. []()
-12. [回顾10年变迁史，探究美图商业化背后逻辑](https://zhuanlan.zhihu.com/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F55944077)
-13. [预见2022：《2022年中国IT基础设施行业全景图谱》](https://baijiahao.baidu.com/s?id=1729236775186636497&wfr=spider&for=pc)
-14. [中华人民共和国企业所得税法](www.chinatax.gov.cn/chinatax/n810341/n810825/c101434/c28479830/content.html)
-15. [中央网信办开展专项行动优化营商网络环境](https://www.gov.cn/zhengce/2023-04/28/content_5753674.htm)
-16. [中央网信办：将为互联网企业健康持续发展提供有力保障](https://www.gov.cn/xinwen/2022-01/29/content_5671225.htm)
-17. [居民收入水平较快增长 生活质量取得显著提高——党的十八大以来经济社会发展成就系列报告之十九
+13. [一天研究一个行业：中国美颜拍摄行业市场深度分析](https://www.163.com/dy/article/HQKOBGOP0552SV13.html)
+
+
+13. [“拍摄美化类”App个人信息收集情况测试报告](http://www.cac.gov.cn/2023-07/27/c_1692020046893686.htm) <a name="ref1"> </a>& [个人信息保护“法时代”到来了](http://www.npc.gov.cn/npc/c2/c30834/202108/t20210824_313166.html)
+14. [如何看待美图公司的发展前景？](https://www.zhihu.com/?url=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F50273830)
+15. []()
+16. []()
+17. []()
+18. [回顾10年变迁史，探究美图商业化背后逻辑](https://zhuanlan.zhihu.com/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F55944077)
+19. [预见2022：《2022年中国IT基础设施行业全景图谱》](https://baijiahao.baidu.com/s?id=1729236775186636497&wfr=spider&for=pc)
+20. [中华人民共和国企业所得税法](www.chinatax.gov.cn/chinatax/n810341/n810825/c101434/c28479830/content.html)
+21. [中央网信办开展专项行动优化营商网络环境](https://www.gov.cn/zhengce/2023-04/28/content_5753674.htm)
+22. [中央网信办：将为互联网企业健康持续发展提供有力保障](https://www.gov.cn/xinwen/2022-01/29/content_5671225.htm)
+23. [居民收入水平较快增长 生活质量取得显著提高——党的十八大以来经济社会发展成就系列报告之十九
     ](http://www.stats.gov.cn/sj/sjjd/202302/t20230202_1896697.html)
 
 
