@@ -301,15 +301,15 @@ TODO
 
 ##### 2.4.1.1 经济是否处于爆发期？总体市场情绪如何？
 
-
+全球经济未处在爆发期，反而处在一个艰难时期。有过去三年新冠疫情对人类健康造成很大的冲击，以及由此带来对经济的负面影响，也有全球地缘政治危机，使得全球业已存在的能源危机和粮食危机更加严重。这些问题在2023年仍将继续存在。<sup></sup>据国际货币基金组织10月最新预测，今年全球经济增速为3.0%，较去年下降0.5个百分点，更是低于过去20年3.8%的平均水平，明年增速将进一步降至2.9%。<sup></sup>当前，全球通胀水平整体回落，消费和服务业表现较为强劲，世界经济得以延续复苏态势。
 
 ##### 2.4.1.2 GDP增长率如何？
 
-
+我国2023年前三季度GDP增长率为5.2%<sup></sup>
 
 ##### 2.4.1.3 失业率有多高？
 
-
+2023年上半年失业率为5.2%，青年失业率高达21.3%<sup></sup>。就业形势未恢复至疫情前水平。
 
 #### 2.4.2 资本市场
 
@@ -341,6 +341,9 @@ TODO
 
 我们认为交通这一因素与美图的商业模式关系不大，因此不予考虑。
 
+我国高校在人工智能领域以及图像识别技术领域实力强劲<sup></sup>,能够为美图提供人才支持。
+
+美图秀秀的产品主要采取电商的方式进行交易，能够打破时间和空间的局限<sup></sup>。美图秀秀提供一个平台将供应商和客户连接起来，这样的交易方式十分便利。美图秀秀平台上提供的产品来源广泛，数量众多，因此贸易质量良莠不齐。
 
 ##### 2.4.4.3 个人和企业的税费有多高？
 
@@ -443,19 +446,17 @@ TODO
 16. []()
 17. []()
 18. [回顾10年变迁史，探究美图商业化背后逻辑](https://zhuanlan.zhihu.com/?url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F55944077)
-19. [预见2022：《2022年中国IT基础设施行业全景图谱》](https://baijiahao.baidu.com/s?id=1729236775186636497&wfr=spider&for=pc)
-20. [中华人民共和国企业所得税法](www.chinatax.gov.cn/chinatax/n810341/n810825/c101434/c28479830/content.html)
-21. [中央网信办开展专项行动优化营商网络环境](https://www.gov.cn/zhengce/2023-04/28/content_5753674.htm)
-22. [中央网信办：将为互联网企业健康持续发展提供有力保障](https://www.gov.cn/xinwen/2022-01/29/content_5671225.htm)
-23. [居民收入水平较快增长 生活质量取得显著提高——党的十八大以来经济社会发展成就系列报告之十九
-    ](http://www.stats.gov.cn/sj/sjjd/202302/t20230202_1896697.html)
+19. [2023年全球经济形势“危中有机”](https://baijiahao.baidu.com/s?id=1762854103121077862&wfr=spider&for=pc)
+20. [大范围衰退风险有所减少，需进一步筑牢金融安全底线](https://baijiahao.baidu.com/s?id=1780362621919972300&wfr=spider&for=pc)
+21. [国家统计局公布2023年三季度国内生产总值初步核算结果](https://baijiahao.baidu.com/s?id=1780164597802353804&wfr=spider&for=pc)
+22. [2023年上半年就业相关数据](https://www.ndrc.gov.cn/fggz/fgzy/jjsjgl/202307/t20230728_1358914_ext.html)
+23. [预见2022：《2022年中国IT基础设施行业全景图谱》](https://baijiahao.baidu.com/s?id=1729236775186636497&wfr=spider&for=pc)
+24. [csrankings](https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&world)
+25. [电子商务](https://zh.wikipedia.org/zh-hans/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1)
+26. [中华人民共和国企业所得税法](www.chinatax.gov.cn/chinatax/n810341/n810825/c101434/c28479830/content.html)
+27. [中央网信办开展专项行动优化营商网络环境](https://www.gov.cn/zhengce/2023-04/28/content_5753674.htm)
+28. [中央网信办：将为互联网企业健康持续发展提供有力保障](https://www.gov.cn/xinwen/2022-01/29/content_5671225.htm)
+29. [居民收入水平较快增长 生活质量取得显著提高——党的十八大以来经济社会发展成就系列报告之十九](http://www.stats.gov.cn/sj/sjjd/202302/t20230202_1896697.html)
 
 
-
-7. [预见2022：《2022年中国IT基础设施行业全景图谱》](https://baijiahao.baidu.com/s?id=1729236775186636497&wfr=spider&for=pc)
-8. [中华人民共和国企业所得税法](www.chinatax.gov.cn/chinatax/n810341/n810825/c101434/c28479830/content.html)
-9. [中央网信办开展专项行动优化营商网络环境](https://www.gov.cn/zhengce/2023-04/28/content_5753674.htm)
-10. [中央网信办：将为互联网企业健康持续发展提供有力保障](https://www.gov.cn/xinwen/2022-01/29/content_5671225.htm)
-11. [居民收入水平较快增长 生活质量取得显著提高——党的十八大以来经济社会发展成就系列报告之十九
-](http://www.stats.gov.cn/sj/sjjd/202302/t20230202_1896697.html)
 
