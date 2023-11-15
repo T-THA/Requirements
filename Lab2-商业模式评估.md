@@ -333,19 +333,30 @@ Canva聚焦于以图片素材设计为工作或副业的设计师群体；黄油
 
 ##### 2.4.2.1 资本市场处于什么状态？
 
+受到疫情、地缘政治风险升级、去全球化和支付体系碎片化的影响，资本市场在2023年上半年逐渐呈紧缩状态，全球经济放缓。中国正面临潜在的经济放缓，消费需求疲软，房地产市场不景气。但是资本市场对于生成式AI等新技术十分关注<sup></sup>。
 
 
 ##### 2.4.2.2 所处市场中获得投资有多容易？现在就能获得种子资本、创业资本、 众筹、市场资本或者贷款吗？获得这些投资的成本有多高？
 
+美图秀秀主要业务分为包括美颜相机，AI生成在内的图像处理和社区运营。
 
+美图秀秀需要关于图像识别以及人工智能领域的投资。生成式AI作为时下热点，收到资本市场的追捧，获得的投资额高<sup></sup>。同样是美图公司旗下的关注图像与AI技术的Pixocal于2023年获得投资2200万美元<sup></sup>。所以获得投融资的可行性较大，获得这些投资的成本较低。
+
+美图秀秀在打造社区方面获得投资则不容易。具有类似属性的社区————小红书，近年来由于竞争激烈，流量不足，难以变现，导致估值下降，难以获得投资<sup></sup>。从这个角度来看，美图秀秀难以获得社区建设相关的投资。
 
 #### 2.4.3 大宗商品和其他资源
 
 ##### 2.4.3.1 业务必备的大宗商品和其他资源的当前市场状态如何？
 
+美图秀秀需要从外部获取的资源包括，知识性资源，人力资源，素材资源。其中人力资源中的关键部分为人工智能人才，知识性资源主要是图像算法与人工智能算法。素材资源主要是一些图片素材以及字体素材。
 
+图像算法与人工智能算法的研发需要大量的人工智能人才。目前，高校以及研究所的人才，以及海外归国的人才流入企业，成为企业人工智能人才的主要来源<sup></sup>。但是总体上，核心研发人员还是供不应求。所以，需要投入大量成本和资源来吸引人才。
+
+随着社会版权意识的不断提高，企业使用图片需要注意版权问题。版权行业上游、下游比较分散的市场格局，为中游的平台服务商最终进化成巨头提供了产业链土壤。目前，国内图片版权也主要集中在几家版权商手中<sup></sup>。我们既可以作为中间商，主动整合上游资源，也可以向已有版权商进行购买，交叉授权。所以图片素材的积累相对容易。
 
 ##### 2.4.3.2 执行商业模式所需资源有多么容易获取？成本如何？价格走向如何？
+
+主要成本中的前期成本，运营成本，和营销成本都相对稳定。运营成本中的服务器以及数据库成本都持续走低而且稳定。营销成本主要是广告上的开支，随着互联网寒冬的到来，广告成本也持续走低。
 
 
 
@@ -468,13 +479,19 @@ Canva聚焦于以图片素材设计为工作或副业的设计师群体；黄油
 20. [大范围衰退风险有所减少，需进一步筑牢金融安全底线](https://baijiahao.baidu.com/s?id=1780362621919972300&wfr=spider&for=pc)
 21. [国家统计局公布2023年三季度国内生产总值初步核算结果](https://baijiahao.baidu.com/s?id=1780164597802353804&wfr=spider&for=pc)
 22. [2023年上半年就业相关数据](https://www.ndrc.gov.cn/fggz/fgzy/jjsjgl/202307/t20230728_1358914_ext.html)
-23. [预见2022：《2022年中国IT基础设施行业全景图谱》](https://baijiahao.baidu.com/s?id=1729236775186636497&wfr=spider&for=pc)
-24. [csrankings](https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&world)
-25. [电子商务](https://zh.wikipedia.org/zh-hans/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1)
-26. [中华人民共和国企业所得税法](www.chinatax.gov.cn/chinatax/n810341/n810825/c101434/c28479830/content.html)
-27. [中央网信办开展专项行动优化营商网络环境](https://www.gov.cn/zhengce/2023-04/28/content_5753674.htm)
-28. [中央网信办：将为互联网企业健康持续发展提供有力保障](https://www.gov.cn/xinwen/2022-01/29/content_5671225.htm)
-29. [居民收入水平较快增长 生活质量取得显著提高——党的十八大以来经济社会发展成就系列报告之十九](http://www.stats.gov.cn/sj/sjjd/202302/t20230202_1896697.html)
+23. [2023年全球银行业及资本市场展望](https://www2.deloitte.com/us/en/insights/industry/financial-services/financial-services-industry-outlooks/banking-industry-outlook.html)
+24. [2021年全球人工智能产业投融资金额为714.7亿美元，我国达201.2亿美元 人工智能加速赋能实体经济](https://news.stcn.com/news/202209/t20220906_4844149.html)
+25. [Pixocial获战投2200万美元](https://www.msn.cn/zh-cn/news/other/%E7%BE%8E%E5%9B%BE%E5%85%AC%E5%8F%B801357hk-pixocial%E8%8E%B7%E6%88%98%E6%8A%952200%E4%B8%87%E7%BE%8E%E5%85%83/ar-AA1i6v0U)
+26. [成立10年难上市，小红书急了？](https://finance.sina.com.cn/jjxw/2023-07-06/doc-imyzttxq8611229.shtml)
+27. [领英《全球AI领域人才报告》](https://business.linkedin.com/content/dam/me/business/zh-cn/talent-solutions/Event/july/lts-ai-report/%E9%A2%86%E8%8B%B1%E3%80%8A%E5%85%A8%E7%90%83AI%E9%A2%86%E5%9F%9F%E4%BA%BA%E6%89%8D%E6%8A%A5%E5%91%8A%E3%80%8B.pdf)
+28. [我国图片版权现状仍不容乐观，2020年中国图片版权行业现状分析](https://zhuanlan.zhihu.com/p/466086421)
+29. [预见2022：《2022年中国IT基础设施行业全景图谱》](https://baijiahao.baidu.com/s?id=1729236775186636497&wfr=spider&for=pc)
+30. [csrankings](https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&world)
+31. [电子商务](https://zh.wikipedia.org/zh-hans/%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1)
+32. [中华人民共和国企业所得税法](www.chinatax.gov.cn/chinatax/n810341/n810825/c101434/c28479830/content.html)
+33. [中央网信办开展专项行动优化营商网络环境](https://www.gov.cn/zhengce/2023-04/28/content_5753674.htm)
+34. [中央网信办：将为互联网企业健康持续发展提供有力保障](https://www.gov.cn/xinwen/2022-01/29/content_5671225.htm)
+35. [居民收入水平较快增长 生活质量取得显著提高——党的十八大以来经济社会发展成就系列报告之十九](http://www.stats.gov.cn/sj/sjjd/202302/t20230202_1896697.html)
 
 
 
